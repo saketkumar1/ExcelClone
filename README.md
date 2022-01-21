@@ -1,5 +1,5 @@
 # Excel_Clone
-Built an excel clone using javascript,jquery,html,css supporting all of its basic functionalities .
+Built an excel clone using Javascript, Jquery, HTML, CSS supporting all of its basic functionalities .
 
 # Stack Used
 - HTML
@@ -18,6 +18,8 @@ Built an excel clone using javascript,jquery,html,css supporting all of its basi
 8. Implemented cycle detection( Using directed- graph data structure) for each cell to prevent the cell to create the cycle.
 9. Clean and Responsive UI
 
-![Screenshot 2022-01-05 160758](![excelcloness](https://user-images.githubusercontent.com/66872047/150542224-9f6fa803-0d37-49b3-b675-7668753ab056.png)
-)
-![Screenshot 2022-01-05 161230](https://user-images.githubusercontent.com/42620842/148205761-c257959c-c658-4075-9e0c-9248e191e4f8.png)
+![Screenshot 2022-01-05 160758](https://user-images.githubusercontent.com/66872047/150542224-9f6fa803-0d37-49b3-b675-7668753ab056.png)
+
+
+![Screenshot 2022-01-05 161230](https://user-images.githubusercontent.com/66872047/150542748-74b11f35-8bd1-4233-9699-dbee8fe75795.png)
+
